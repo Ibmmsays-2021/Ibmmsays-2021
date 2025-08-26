@@ -3,7 +3,7 @@
 - 👀 I’m interested in .NET, Angular, and Cloud Development  
 - 🌱 I’m currently learning Azure DevOps & Advanced System Design  
 - 💞️ I’m looking to collaborate on Open Source and Full Stack projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/) | [Email](mailto:your.email@example.com)  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ibrahim-muhammed-048122172/) | [Email](mailto:ibmsays.khiedr@gmail.com)  
 
 ---
 
